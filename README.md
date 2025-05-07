@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ongbadayhoa.com**
 
-- 🌱 I’m currently learning **Nextjs, Reactjs, MongoDB**
+- 🌱 I’m currently learning **Nextjs, TypeScript, MongoDB**
 
 - 📫 How to reach me **nhutanh1605@gmail.com**
 
