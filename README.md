@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm N4nh</h1>
 <h3 align="center">A passionate fullstack developer from Vietnam</h3>
 
-- 🔭 I’m currently working on [ongbadayhoa.com](https://ongbadayhoa.com/)
+- 🔭 I’m currently working on [Aegona Ltd](https://aegona.vn/)
 
 - 🌱 I’m currently learning **Nextjs, TypeScript, MongoDB**
 
