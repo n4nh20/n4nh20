@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm N4nh</h1>
-<h3>A passionate fullstack developer with 2+ year from Vietnam</h3>
+<h3>A passionate fullstack developer with 2+ year experience from Vietnam</h3>
 
 - 🔭 I’m have worked on [Aegona Ltd](https://aegona.vn/)
 
