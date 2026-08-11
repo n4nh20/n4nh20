@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm N4nh</h1>
-<h3>A passionate fullstack developer from Vietnam</h3>
+<h3>A passionate fullstack developer with 2+ year from Vietnam</h3>
 
-- 🔭 I’m currently working on [Aegona Ltd](https://aegona.vn/)
+- 🔭 I’m have worked on [Aegona Ltd](https://aegona.vn/)
 
 - 📫 How to reach me **nhutanh1605@gmail.com**
 
